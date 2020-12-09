@@ -4,22 +4,28 @@
 
 [蒋丞]()
 
+* [个人简介]()
+
   * [人物关系](english/english-formula.md)
   * [学习经历](english/Phonetic-Phonics.md)
 - - - -
   * # Advanced
-  * [Stress and Syllables](english/stress.md)
+  * [经典名言](english/stress.md)
 
 [顾飞]()
+
+* [个人简介]()
 
   * [人物关系](math/levy_processes.md)
   * [特长]()
 
 [顾淼]()
 
+* [个人简介ji]()
+
 * [人物关系]()
 
-[Coding](coding/PythonNote.md)
+[寄语]()
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
