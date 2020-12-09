@@ -25,7 +25,7 @@
 
 * [人物关系]()
 
-[寄语](coding/Note.md)
+[主题曲](coding/Note.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
