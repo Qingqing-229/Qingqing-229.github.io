@@ -6,8 +6,8 @@
 
 * [个人简介]()
 
-  * [人物关系](english/english-formula.md)
-  * [学习经历](english/Phonetic-Phonics.md)
+* [人物关系](english/english-formula.md)
+* [学习经历](english/Phonetic-Phonics.md)
 - - - -
   * # Advanced
   * [经典名言](english/stress.md)
@@ -16,8 +16,8 @@
 
 * [个人简介]()
 
-  * [人物关系](math/levy_processes.md)
-  * [特长]()
+* [人物关系](math/levy_processes.md)
+* [特长]()
 
 [顾淼]()
 
