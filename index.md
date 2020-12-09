@@ -4,7 +4,7 @@
 
 
 
-！[](images/头像.jpg)
+![](images/头像.jpg)
 
 ## 个人简介
 
