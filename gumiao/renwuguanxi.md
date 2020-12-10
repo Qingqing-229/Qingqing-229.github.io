@@ -1,19 +1,12 @@
-# Levy Processes
+# 顾淼
 
-![](images/300.jpg "A kitten")
-
-![](images/450.jpg "First of two kittens")
-![](images/450.jpg "Second of two kittens")
-
-![](images/350.jpg)
-![](images/350.jpg)
-![](images/350.jpg)
-
-The measure \\(\mu\\) is called \\(\sigma\\) **-finite** if \\(X\\) is the *countable union*  of measurable sets with finite measure. A set in a measure space is said to have \\(\sigma\\) **-finite measure** if it is a countable union of sets with finite measure.
-
-For example, Lebesgue measure on the real numbers is not finite, but it is \\(\sigma\\) -finite. Indeed, consider the closed intervals \\([k,k+1]\\) for all integers \\(k\\); there are countably many such intervals, each has measure 1, and their union is the entire real line.
-
-
+## <font color="blue">人物关系</font>
+------
+<img src="images/顾淼4.jpg" style="zoom:25%;" />
+------
+* 顾飞的妹妹；
+* 在顾飞的影响下有严重的心理疾病，平时不会离开家周围很远，但是在蒋丞来到“钢厂”的那一天在火车站附件迷路，故而使蒋丞与顾飞结缘；
+* 后在蒋丞学长的帮助下病情逐渐有所好转。
 
 
 
