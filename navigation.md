@@ -2,26 +2,24 @@
 
 [蒋丞]()
 
-* [个人简介]()
-
-* [人物关系](english/english-formula.md)
-* [学习经历](english/Phonetic-Phonics.md)
+* [个人简介](jiangcheng/gerenjianjie.md)
+* [人物关系](jiangcheng/renwuguanxi.md)
+* [学习经历](jiangcheng/xuexijingli.md)
 - - - -
   * # Advanced
-  * [经典名言](english/stress.md)
+  * [经典名言](jiangcheng/jingdianmingyan.md)
 
 [顾飞]()
 
-* [个人简介]()
-
-* [人物关系](math/levy_processes.md)
-* [特长]()
+* [个人简介](gufei/gerenjianjie.md)
+* [人物关系](gufei/renwuguanxi.md)
+* [特长](gufei/techang.md)
 
 [顾淼]()
 
-* [个人简介]()
+* [个人简介](gumiao/gerenjianjie.md)
 
-* [人物关系]()
+* [人物关系](gumiao/renwuguanxi.md)
 
 [主题曲](coding/Note.md)
 
